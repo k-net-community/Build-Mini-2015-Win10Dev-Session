@@ -1,0 +1,17 @@
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\debug\anycpu\resources.pri
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\debug\anycpu\CordovaApp.Windows.build.appxrecipe
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\priconfig.xml
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\layout.resfiles
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\resources.resfiles
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\pri.resfiles
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\qualifiers.txt
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\package.map.txt
+C:\project\CordovaBootstrapApp\CordovaBootstrapApp\platforms\windows\build\windows\bld\_pkginfo.txt
