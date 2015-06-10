@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-6HHI7DCQDOA</Machine>
+    <WindowsUser>kmcch</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>io.cordova.myapp6c4ea91ab0604635a7bc26f7dcfdfdea</PackageIdentityName>
+    <IntermediateOutputPath>C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E8E8956383560BDDB1ECC487E998DFF7898C22C0397FCD48E2732FE104C46C0D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp6c4ea91ab0604635a7bc26f7dcfdfdea_1.0.0.0_x64__54dbk1tt7zbhy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp6c4ea91ab0604635a7bc26f7dcfdfdea_54dbk1tt7zbhy!io.cordova.myapp6c4ea91ab0604635a7bc26f7dcfdfdea</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myapp6c4ea91ab0604635a7bc26f7dcfdfdea</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Temp Cert</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\build\windows\debug\x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:09.242</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:01.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:01.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:01.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:19:51.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:01.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:01.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T14:20:01.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2015-06-05T14:20:00.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2015-06-05T14:20:00.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2015-06-05T14:19:56.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2015-06-05T14:20:00.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2015-06-05T14:20:00.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\js\en-US\ui.strings.js">
+      <PackagePath>www\Winjs\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-06-05T14:19:59.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\js\WinJS.intellisense-setup.js">
+      <PackagePath>www\Winjs\js\WinJS.intellisense-setup.js</PackagePath>
+      <Modified>2015-06-05T14:19:59.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\js\WinJS.intellisense.js">
+      <PackagePath>www\Winjs\js\WinJS.intellisense.js</PackagePath>
+      <Modified>2015-06-05T14:19:59.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\js\WinJS.js">
+      <PackagePath>www\Winjs\js\WinJS.js</PackagePath>
+      <Modified>2015-06-05T14:20:00.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\js\WinJS.min.js">
+      <PackagePath>www\Winjs\js\WinJS.min.js</PackagePath>
+      <Modified>2015-06-05T14:20:00.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2015-06-05T14:19:56.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\css\ui-dark.css">
+      <PackagePath>www\Winjs\css\ui-dark.css</PackagePath>
+      <Modified>2015-06-05T14:19:57.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\css\ui-light.css">
+      <PackagePath>www\Winjs\css\ui-light.css</PackagePath>
+      <Modified>2015-06-05T14:19:57.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2015-06-05T14:19:56.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\fonts\Symbols.ttf">
+      <PackagePath>www\Winjs\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-06-05T14:19:58.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\www\Winjs\js\WinJS.min.js.map">
+      <PackagePath>www\Winjs\js\WinJS.min.js.map</PackagePath>
+      <Modified>2015-06-05T14:20:00.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2015-06-05T14:20:03.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\project\CordovaWinJSApp\CordovaWinJSApp\platforms\windows\build\windows\debug\x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-05T14:20:08.732</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

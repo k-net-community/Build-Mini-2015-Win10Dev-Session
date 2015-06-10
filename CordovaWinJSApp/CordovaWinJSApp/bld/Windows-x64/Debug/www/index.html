@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CordovaWinJSApp</title>
+
+    <!-- CordovaWinJSApp references -->
+    <link href="css/index.css" rel="stylesheet" />
+    <link href="Winjs/css/ui-dark.css" rel="stylesheet" />
+</head>
+<body>
+    <p>Hello, your application is ready!</p>
+
+    <div data-win-control="WinJS.UI.AppBar" data-win-options="">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'ComAdd',label : 'Add', icon:'add', section:'global', tooltip:'AddItem'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'ComEdit',label : 'Edit', icon:'edit', section:'global', tooltip:'EditItem'}"></button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'ComDelete',label:'Delete',icon:'delete', section:'global', tooltip:'deleteItem'}"></button>
+    </div>
+
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+    <script src="Winjs/js/WinJS.min.js"></script>
+    <script src="scripts/index.js"></script>
+</body>
+</html>
